@@ -4,8 +4,8 @@ export function RightSidebar() {
         border: "1px solid rgb(190, 189, 189)",
         borderRadius: "20px",
         marginLeft: "20px",
-        marginTop: "10px"
-
+        marginTop: "10px",
+        backgroundColor: "white"
      }}> 
     </div>
 }
