@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=SN+Pro:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+body {
+  font-family: "SN Pro", sans-serif;
+  background-color: #F4F2EE;
+}
+
+.topbar-element {
+    color: #666666;
+}
+
+.topbar-element.selected {
+    color: #000000;
+}
+
+.topbar-element:hover {
+    color: #000000;
+}
+
+.bold-placeholder::placeholder {
+    color: black;
+    font-weight: bold;
+}
