@@ -4,6 +4,8 @@ import { Topbar } from "./components/Topbar";
 import { LeftSidebar } from "./components/LeftSidebar";
 import { Content } from "./components/Content";
 import { Career } from "./components/Career";
+import { Impressions } from "./components/Impressions";
+import { Options } from "./components/Options";
 
 import "./index.css";
 
@@ -18,6 +20,8 @@ export function App() {
             <div style={{ flex: 1 }}>
               <LeftSidebar />
               <Career />
+              <Impressions />
+              <Options />
             </div>
 
             <div style={{ flex: 3 }}>
