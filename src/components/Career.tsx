@@ -2,7 +2,7 @@ export function Career() {
   return (
     <div
       style={{
-        height: "9vh",
+        height: "5vh",
         border: "1px solid rgb(190, 189, 189)",
         borderRadius: "10px",
         marginTop: "10px",
