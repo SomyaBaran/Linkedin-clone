@@ -1,7 +1,7 @@
 export function Content(){
     return (
         <div style={{
-            height: "60vh",
+            height: "65vh",
             marginTop: "20px",
             marginLeft: "17px",
             borderRadius: "20px",
