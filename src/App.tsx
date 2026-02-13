@@ -17,7 +17,7 @@ export function App() {
         <div style={{ marginLeft: "13vw", marginRight: "13vw" }}>
           <div style={{ display: "flex" }}>
 
-            <div style={{ flex: 1 }}>
+            <div style={{ flex: 1.3 }}>
               <LeftSidebar />
               <Career />
               <Impressions />
@@ -29,7 +29,7 @@ export function App() {
               <Content />
             </div>
 
-            <div style={{ flex: 1 }}>
+            <div style={{ flex: 1.7 }}>
               <RightSidebar />
             </div>
           </div>
