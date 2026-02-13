@@ -34,7 +34,7 @@ export function Posts() {
                         flex: 1,
                         height: "50px",
                         borderStyle: "solid",
-                        borderColor: "gray",
+                        borderColor: " rgb(190, 189, 189)",
                         borderWidth: "1px",
                         borderRadius: "35px",
                         padding: "0 20px",
