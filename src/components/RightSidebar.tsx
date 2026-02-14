@@ -188,7 +188,6 @@ export function RightSidebar() {
                   <div style={{ fontWeight: "600", fontSize: "1rem", color: "#000" }}>Queens #654</div>
                   <div style={{ fontSize: "0.85rem", color: "#666" }}>3 connections played</div>
                </div>
-               <div style={{ color: "#999", fontSize: "20px" }}>›</div>
             </div>
          </div>
       </div>
