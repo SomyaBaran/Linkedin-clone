@@ -4,11 +4,11 @@ import { TopbarElement } from "./TopBarElement";
 import { TopbarElementWithDropdown } from "./TopbarElementWithDropdown";
 
 export function Topbar() {
-    return <div style={{ 
-        display: "flex", 
-        justifyContent: "space-between", 
+    return <div style={{
+        display: "flex",
+        justifyContent: "space-between",
         alignItems: "center",
-        marginLeft: "10vw",  
+        marginLeft: "10vw",
         marginRight: "10vw",
         height: "52px",
         borderBottom: "1px solid #e0e0e0",
